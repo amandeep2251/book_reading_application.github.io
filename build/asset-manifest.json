@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfe7ae56.chunk.css",
+    "main.js": "/static/js/main.70ec3949.chunk.js",
+    "main.js.map": "/static/js/main.70ec3949.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c20a2a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c20a2a3.js.map",
+    "static/css/2.614afd85.chunk.css": "/static/css/2.614afd85.chunk.css",
+    "static/js/2.ee855203.chunk.js": "/static/js/2.ee855203.chunk.js",
+    "static/js/2.ee855203.chunk.js.map": "/static/js/2.ee855203.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3d692fcd3f1c4859796be525ad9dc09e.js": "/precache-manifest.3d692fcd3f1c4859796be525ad9dc09e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.614afd85.chunk.css.map": "/static/css/2.614afd85.chunk.css.map",
+    "static/css/main.cfe7ae56.chunk.css.map": "/static/css/main.cfe7ae56.chunk.css.map",
+    "static/media/AddToBookList.png": "/static/media/AddToBookList.1ce62b82.png",
+    "static/media/BookWhite.png": "/static/media/BookWhite.bd5e676f.png",
+    "static/media/CreateBookListIK.png": "/static/media/CreateBookListIK.8a711898.png",
+    "static/media/HTML.png": "/static/media/HTML.b047f6ae.png",
+    "static/media/Mari.pdf": "/static/media/Mari.831187a4.pdf",
+    "static/media/index.css": "/static/media/bg4.cd48ef73.jpg",
+    "static/media/MyBooklists.png": "/static/media/MyBooklists.4728adb4.png",
+    "static/media/MyBooks.png": "/static/media/MyBooks.72edb695.png",
+    "static/media/PDF.png": "/static/media/PDF.69567517.png",
+    "static/media/Star.png": "/static/media/Star.f965963f.png",
+    "static/media/Video.m4v": "/static/media/Video.17b46423.m4v"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c20a2a3.js",
+    "static/css/2.614afd85.chunk.css",
+    "static/js/2.ee855203.chunk.js",
+    "static/css/main.cfe7ae56.chunk.css",
+    "static/js/main.70ec3949.chunk.js"
+  ]
+}
